@@ -64,8 +64,7 @@
 </table>
 
 ![amalreji111's github stats](https://github-readme-stats.vercel.app/api?username=amalreji111&hide=["issues"]&show_icons=true&theme=dark)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalreji111&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+
 ---
 
 ⚠️ Inspired from other Respositories on Github
