@@ -1,11 +1,11 @@
 <a target="_blank" href="https://github.com/amalreji111/"><img width="250" align="right" type="image/png" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/452/external-hacker-cryptocurrency-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"></a>
 # Amal M Reji
 
-[![Gmail](https://img.shields.io/badge/gmail-%23B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalmreji124@gmail.com)
-[![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amalreji111)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anmiaklitha/)
-[![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-reji-419a0114a/)
-[![LinkedIn Connect](https://img.shields.io/v1?message="WEBSITE"&color="red")](https://amalreji-portfolio.netlify.app/)
+[![Gmail](https://img.shields.io/static/v1?message="GMAIL"&color="green")](mailto:amalmreji124@gmail.com)
+[![Twitter Follow](https://img.shields.io/static/v1?message="TWITTER"&color="violet")](https://twitter.com/amalreji111)
+[![Facebook](https://img.shields.io/static/v1?message="FACEBOOK"&color="orange")](https://www.facebook.com/anmiaklitha/)
+[![LinkedIn Connect](https://img.shields.io/static/v1?message="LINKEDIN"&color="yellow")](https://www.linkedin.com/in/amal-reji-419a0114a/)
+[![LinkedIn Connect](https://img.shields.io/static/v1?message="WEBSITE"&color="red")](https://amalreji-portfolio.netlify.app/)
 :wave: I'm Amal M Reji. 24 Years Old . Working as MERN Stack Dev  at [JitTec Technology Services](http://www.jittec.com). Experimenting on Programming and Linux. Android Enthusiast,Web Dev Self-learning mor.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
