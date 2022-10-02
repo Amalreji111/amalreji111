@@ -3,9 +3,9 @@
 
 [![Gmail](https://img.shields.io/badge/GMAIL-green)](mailto:amalmreji124@gmail.com)
 [![Twitter Follow](https://img.shields.io/badge/TWITTER-violet)](https://twitter.com/amalreji111)
-[![Facebook](https://img.shields.io/static/v1?message="FACEBOOK"&color="orange")](https://www.facebook.com/anmiaklitha/)
-[![LinkedIn Connect](https://img.shields.io/static/v1?message="LINKEDIN"&color="yellow")](https://www.linkedin.com/in/amal-reji-419a0114a/)
-[![LinkedIn Connect](https://img.shields.io/static/v1?message="WEBSITE"&color="red")](https://amalreji-portfolio.netlify.app/)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-orange)](https://www.facebook.com/anmiaklitha/)
+[![LinkedIn Connect](https://img.shields.io/badge/LINKEDIN-yellow)](https://www.linkedin.com/in/amal-reji-419a0114a/)
+[![LinkedIn Connect](https://img.shields.io/badge/WEBSITE-red)](https://amalreji-portfolio.netlify.app/)
 :wave: I'm Amal M Reji. 24 Years Old . Working as MERN Stack Dev  at [JitTec Technology Services](http://www.jittec.com). Experimenting on Programming and Linux. Android Enthusiast,Web Dev Self-learning mor.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
