@@ -64,6 +64,8 @@
 </table>
 
 ![amalreji111's github stats](https://github-readme-stats.vercel.app/api?username=amalreji111&hide=["issues"]&show_icons=true&theme=dark)
+[![amalreji111 GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amalreji111&langs_count=5&theme=tokyonight)]()
+
 
 ---
 
