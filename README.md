@@ -58,8 +58,8 @@
       <span><b>Nest Js</span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg"></td>
       <td width="25%" align="center">
-      <span><b>Next Js</span><br><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg"></td>  
+      <span><b>Express</span><br><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/express.svg"></td>  
     </tr>   
   </tbody>
 </table>
