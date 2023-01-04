@@ -48,7 +48,7 @@
     </tr>   
       <tr valign="top">    
       <td width="25%" align="center">
-        <span>Express</span><br><br><br>
+        <span>Typescript</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
       </td>
       <td width="25%" align="center">
