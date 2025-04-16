@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/FACEBOOK-orange)](https://www.facebook.com/anmiaklitha/)
 [![LinkedIn Connect](https://img.shields.io/badge/LINKEDIN-yellow)](https://www.linkedin.com/in/amal-reji-419a0114a/)
 [![LinkedIn Connect](https://img.shields.io/badge/WEBSITE-red)](https://amal-portfolio.vercel.app/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Amal+M+REJI;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Android++enthusiast+;MERN+Stack+Developer;Learning+Devops;Linux+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Amal+M+REJI;+Welcome+to+My+Profile!;Over+3+years+and+9+months+of+programming+experience;Always+learning+new+things+;Android++enthusiast+;MERN+Stack+Developer;Learning+Devops;Linux+Enthusiast)](https://git.io/typing-svg)
 <!-- Working as MERN Stack Dev  at [JitTec Technology Services](http://www.jittec.com). Experimenting on Programming and Linux. Android Enthusiast,Web Dev Self-learning mor. -->
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
